@@ -1,1 +1,0 @@
-const add = (a=10)

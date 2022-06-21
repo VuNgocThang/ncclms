@@ -1,0 +1,43 @@
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.container{
+    position: relative;
+    min-width: 1918px;
+}
+.header{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 150px;
+    height: 935px;
+    background-color: #191718;
+}
+.passion{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 1768px;
+    height: 935px;
+    background-color: #FFFFFF;
+}
+
+.header h6{
+    color:#FFFFFF;
+    width: 43px;
+    height: 19px;
+    margin: 14px 0 11px 16px;
+}
